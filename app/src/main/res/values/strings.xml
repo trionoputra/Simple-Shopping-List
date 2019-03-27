@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Simple Shopping List</string>
+    <string name="daftar_belanja">Shopping List</string>
+    <string name="cari_daftar">search shopping list</string>
+    <string name="belum_ada_daftar">no shopping list</string>
+    <string name="buat_daftar">CREATE SHOPPING LIST</string>
+    <string name="nama_daftar">shopping list name</string>
+    <string name="masukan_daftar">enter shopping list name</string>
+    <string name="tanggal_belanja">shopping date</string>
+    <string name="masukan_tanggal">enter shopping date</string>
+    <string name="tambah_barang">ADD ITEM</string>
+    <string name="simpan">SAVE</string>
+    <string name="klik_tambah_barang">item is empty \nclick ADD ITEM to add items</string>
+    <string name="nama_barang">item name</string>
+    <string name="masukan_nama_barang">enter item name</string>
+    <string name="harga">price</string>
+    <string name="masukan_harga">enter estimate price</string>
+    <string name="jumlah_beli">amount to be purchased</string>
+    <string name="tambah">ADD</string>
+    <string name="keluar">CLOSE</string>
+    <string name="nama_kosong">item name can\'t be empty</string>
+    <string name="nama_daftar_kosong">list name can\'t be empty</string>
+    <string name="tanggal_kosong">date can\'t be empty</string>
+    <string name="harga_kosong">price can\'t be empty</string>
+    <string name="ubah">UPDATE</string>
+    <string name="berhasil_ditambah">item successfully saved</string>
+    <string name="berhasil_diubah">item successfully updated</string>
+    <string name="berhasil_dihapus">item successfully deleted</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="yakin_apus">are you sure want to delete?</string>
+    <string name="barang_kosong">add at least 1 item</string>
+    <string name="daftar_sukses">shopping successfully saved</string>
+    <string name="daftar_hapus">shopping successfully deleted</string>
+    <string name="daftar_barang_kosong">item list is empty</string>
+    <string name="totalharga">TotalPrice</string>
+    <string name="share_via">share via</string>
+    <string name="harga_asli">actual price</string>
+    <string name="masukan_harga_asli">enter actual price</string>
+    <string name="jumlah_yang_beli">amount purchased</string>
+    <string name="dibeli">TotalPurchased</string>
+    <string name="item">item</string>
+    <string name="total_item">Total item</string>
+
+    <string name="banner_ad_unit_id">1646177728758524_1646183318757965</string>
+    <string name="interstitial_id">1646177728758524_1646183538757943</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">News</string>
+
+    <string name="facebook_app_id">1646177728758524</string>
+    <string name="fb_login_protocol_scheme">fb1646177728758524</string>
+
+</resources>

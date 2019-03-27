@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303030</color>
+    <color name="colorPrimaryDark">#303030</color>
+    <color name="colorAccent">#303030</color>
+    <color name="bg">#303030</color>
+    <color name="putih">#fff</color>
+    <color name="coklat">#CCAA75</color>
+    <color name="coklattua">#917442</color>
+    <color name="abu">#B0B0B0</color>
+    <color name="abu_sedang">#79797A</color>
+    <color name="abu_tua">#333333</color>
+
+
+    <color name="putih_transparan">#99ffffff</color>
+
+    <color name="merah_tua">#F6514B</color>
+    <color name="merah">#F58E8B</color>
+    <color name="bg_abu">#F1F1F1</color>
+</resources>

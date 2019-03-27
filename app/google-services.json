@@ -1,0 +1,228 @@
+{
+  "project_info": {
+    "project_number": "466989791462",
+    "firebase_url": "https://tipsbangneo.firebaseio.com",
+    "project_id": "tipsbangneo",
+    "storage_bucket": "tipsbangneo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466989791462:android:ff072c927532d3ab",
+        "android_client_info": {
+          "package_name": "com.yondev.tipsbangneo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466989791462-1eo1e0cejqftbt4pbedc3h6kqbb4kobg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjy-u9tYmaZmtYhXxXPI-cQeO8kz1oZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466989791462:android:75b90f17b0605355",
+        "android_client_info": {
+          "package_name": "com.yondev.ost.nk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466989791462-1eo1e0cejqftbt4pbedc3h6kqbb4kobg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjy-u9tYmaZmtYhXxXPI-cQeO8kz1oZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466989791462:android:6a58737d0f5104fe",
+        "android_client_info": {
+          "package_name": "com.yondev.ost.op"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466989791462-1eo1e0cejqftbt4pbedc3h6kqbb4kobg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjy-u9tYmaZmtYhXxXPI-cQeO8kz1oZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466989791462:android:0192f100314d5259",
+        "android_client_info": {
+          "package_name": "com.yondev.ost.hunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466989791462-1eo1e0cejqftbt4pbedc3h6kqbb4kobg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjy-u9tYmaZmtYhXxXPI-cQeO8kz1oZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466989791462:android:04a4bd66f8f99662",
+        "android_client_info": {
+          "package_name": "com.yondev.carispekhandphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466989791462-1eo1e0cejqftbt4pbedc3h6kqbb4kobg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjy-u9tYmaZmtYhXxXPI-cQeO8kz1oZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466989791462:android:fa271eca32d04814",
+        "android_client_info": {
+          "package_name": "com.yondev.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466989791462-1eo1e0cejqftbt4pbedc3h6kqbb4kobg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjy-u9tYmaZmtYhXxXPI-cQeO8kz1oZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466989791462:android:db3759c143f4d6f9",
+        "android_client_info": {
+          "package_name": "com.yondev.shoppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466989791462-1eo1e0cejqftbt4pbedc3h6kqbb4kobg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjy-u9tYmaZmtYhXxXPI-cQeO8kz1oZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

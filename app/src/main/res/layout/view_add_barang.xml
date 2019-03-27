@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:emojicon="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="280dp"
+    android:background="@drawable/rounded_layout_black"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:layout_marginTop="16dp"
+    android:layout_marginBottom="16dp"
+    android:id="@+id/mainDialog">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/topWrapper"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/coklat"
+            android:layout_marginTop="16dp"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="8dp"
+            android:text="@string/nama_barang" />
+
+        <RelativeLayout android:layout_width="match_parent"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:maxWidth="300dp"
+            android:layout_marginBottom="8dp"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/editText"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:background="@drawable/rounded_layout_white_s"
+                android:ems="10"
+                android:hint="@string/masukan_nama_barang"
+                android:gravity="left|center_vertical"
+                android:textSize="18dp"
+                android:paddingTop="4dp"
+                android:paddingBottom="4dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_toLeftOf="@+id/btnList"
+                android:inputType="textPersonName" />
+
+            <ImageButton
+                android:id="@+id/btnList"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/icon_state"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                app:srcCompat="@mipmap/ic_assignment_white_24dp" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/coklat"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="8dp"
+            android:text="@string/harga" />
+
+        <RelativeLayout android:layout_width="match_parent"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:maxWidth="300dp"
+            android:layout_marginBottom="8dp"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/editText2"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:background="@drawable/rounded_layout_white_s"
+                android:ems="10"
+                android:hint="@string/masukan_harga"
+                android:gravity="left|center_vertical"
+                android:textSize="18dp"
+                android:paddingTop="4dp"
+                android:paddingBottom="4dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:inputType="numberDecimal" />
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/coklat"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="8dp"
+            android:text="@string/jumlah_beli" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_height="wrap_content" android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/imageButton2"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="16dp"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/textView3"
+                android:background="@null"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/bg_btn_minus" />
+
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/imageButton1"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:layout_gravity="center_vertical"
+                android:textStyle="bold"
+                android:textColor="@color/putih"
+                android:text="1" />
+
+            <ImageButton
+                android:id="@+id/imageButton1"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="16dp"
+                android:background="@null"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/bg_btn_plus" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottomWrapper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp"
+        android:gravity="right|center_vertical"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/btnTambah"
+            android:layout_width="80dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/coklattua"
+            android:stateListAnimator="@null"
+            android:background="@drawable/icon_state"
+            android:textSize="16dp"
+            android:text="@string/tambah" />
+
+        <Button
+            android:id="@+id/btnKeluar"
+            android:layout_width="80dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/putih"
+            android:stateListAnimator="@null"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/icon_state"
+            android:textSize="16dp"
+            android:text="@string/keluar" />
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>
