@@ -1,7 +1,7 @@
-# Simple Shopping List
+# Android Simple Shopping List
 <img src="banner.png" width="800" alt="simple-shopping-list"></a>
 
-Simple Shopping List is an open source apps for organize you shopping list
+Simple Shopping List is an open source android apps for organize you shopping list
 
 <img src="page.png" width="200" alt="simple-shopping-list"></a>
 
